@@ -11,9 +11,6 @@
             Instagram:  https://www.instagram.com/cs4usama
             Twitter:    https://twitter.com/CS4Usama
             GitHub:     https://github.com/CS4Usama
-
-
-
 ## Programming Languages and Tools:
 #### * C C++             Git         NPMHTML5 CSS3 JavaScript
 

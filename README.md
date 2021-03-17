@@ -15,9 +15,10 @@
 ## Programming Languages and Tools:
 #### C &nbsp; &nbsp; C++ &nbsp; &nbsp; HTML5 &nbsp; &nbsp; CSS3 &nbsp; &nbsp; JavaScript
 ##### Git &nbsp; &nbsp; NPM &nbsp; &nbsp; VS Code &nbsp; &nbsp; Dev-C++ &nbsp; &nbsp; Turbo C++
-<br>
 
->💻 &ldquoPROGRAMMING is Just a Game of L0GIC.&rdquo 🧐 <br>If You can Create a L0GIC, then You can Convert Your Imaginations into Reality.
+</br>
+
+>💻 &ldquo;PROGRAMMING is Just a Game of L0GIC.&rdquo; 🧐 <br>If You can Create a L0GIC, then You can Convert Your Imaginations into Reality.
 
 
 <!-- CS4Usama/Cyber-Ping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

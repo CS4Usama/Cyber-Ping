@@ -3,14 +3,17 @@
 - 🌱 I’m currently learning Web and Mobile Development from Saylani Mass IT Training Program.
 - 💞️ I’m looking to collaborate on Web Projects.
 - 📫 How to reach me:>
--           LinkedIn:   <a href="https://www.linkedin.com/in/usama-cs">LinkedIn</a>
+-           [LinkedIn:   (https://www.linkedin.com/in/usama-cs)]
             Facebook:   https://www.facebook.com/CS4Usama
             Instagram:  https://www.instagram.com/cs4usama
             Twitter:    https://twitter.com/CS4Usama
             GitHub:     https://github.com/CS4Usama
             
 ### Programming Languages and Tools:
-C           C++         Git         NPM         HTML5       CSS3        JavaScript
+#C           
+##C++         
+*Git         
+NPM         HTML5       CSS3        JavaScript
 
 <!---
 Cyber-Ping/Cyber-Ping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

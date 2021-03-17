@@ -5,7 +5,7 @@
 - 👀 I'm a young passionate programmer with various skills.
 - 🌱 I'm currently learning Web and Mobile Development from Saylani Mass IT Training Program.
 - 💞️ I'm looking to collaborate on Web Projects.
-- 📫 How to reach me:> &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/usama-cs) &nbsp; &nbsp; [Facebook](https://www.facebook.com/CS4Usama) &nbsp; &nbsp; [Instagram](https://www.instagram.com/cs4usama) &nbsp; &nbsp; [Twitter](https://twitter.com/CS4Usama) &nbsp; &nbsp; [GitHub](https://github.com/CS4Usama)
+- 📫 How to reach me:> &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/usama-cs) &nbsp; &nbsp; [Facebook](https://www.facebook.com/CS4Usama) &nbsp; &nbsp; [Instagram](https://www.instagram.com/CS4Usama) &nbsp; &nbsp; [Twitter](https://twitter.com/CS4Usama) &nbsp; &nbsp; [GitHub](https://github.com/CS4Usama)
 -           LinkedIn:   https://www.linkedin.com/in/usama-cs
             Facebook:   https://www.facebook.com/CS4Usama
             Instagram:  https://www.instagram.com/CS4Usama

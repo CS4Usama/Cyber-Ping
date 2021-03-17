@@ -1,6 +1,6 @@
 # Programmer | Web Developer | Cyber Security Specialist
 
-## ABOUT
+### ABOUT
 - 👋 Hi! I'm Usama from Pakistan.
 - 👀 I'm a young passionate programmer with various skills.
 - 🌱 I’m currently learning Web and Mobile Development from Saylani Mass IT Training Program.
@@ -17,9 +17,9 @@
 * C C++             Git         NPMHTML5 CSS3 JavaScript
 
 ####### 7
-###### 6
-##### 5  
-#### 4
+###### 6 c  C++
+##### 5  C              C++
+#### 4      C           C++
 ### 3
 >
 

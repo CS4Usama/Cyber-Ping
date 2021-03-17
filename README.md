@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web and Mobile Development from Saylani Mass IT Training Program.
 - 💞️ I’m looking to collaborate on Web Projects.
 - 📫 How to reach me:>
--           LinkedIn:   https://www.linkedin.com/in/usama-cs
+-           LinkedIn:   <a href="https://www.linkedin.com/in/usama-cs">LinkedIn</a>
             Facebook:   https://www.facebook.com/CS4Usama
             Instagram:  https://www.instagram.com/cs4usama
             Twitter:    https://twitter.com/CS4Usama

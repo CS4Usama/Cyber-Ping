@@ -1,4 +1,5 @@
 # Programmer | Web Developer | Cyber Security Specialist
+
 ## ABOUT
 - 👋 Hi! I'm Usama from Pakistan.
 - 👀 I'm a young passionate programmer with various skills.
@@ -13,7 +14,11 @@
 
 
 ## Programming Languages and Tools:
-##### C *C++ *            Git         NPMHTML5 CSS3 JavaScript
+* C C++             Git         NPMHTML5 CSS3 JavaScript
+
+####### 7
+###### 6
+##### 5  
 #### 4
 ### 3
 >

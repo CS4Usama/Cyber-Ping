@@ -5,7 +5,7 @@
 - 👀 I'm a young passionate programmer with various skills.
 - 🌱 I'm currently learning Web and Mobile Development from Saylani Mass IT Training Program.
 - 💞️ I'm looking to collaborate on Web Projects.
-- 📫 How to reach me:>
+- 📫 How to reach me:>  [Usama](https://www.linkedin.com/in/usama-cs)
 -           LinkedIn:   https://www.linkedin.com/in/usama-cs
             Facebook:   https://www.facebook.com/CS4Usama
             Instagram:  https://www.instagram.com/cs4usama
@@ -13,12 +13,12 @@
             GitHub:     https://github.com/CS4Usama
 
 ## Programming Languages and Tools:
-<pre>C      C++         HTML5       CSS3        JavaScript</pre>
-<code>Git   NPM         VS Code     Dev-C++     Turbo C++</code>
+####C &nbsp; &nbsp; C++ &nbsp; &nbsp; HTML5 &nbsp; &nbsp; CSS3 &nbsp; &nbsp; JavaScript
+#####Git &nbsp; &nbsp; NPM &nbsp; &nbsp; VS Code &nbsp; &nbsp; Dev-C++ &nbsp; &nbsp; Turbo C++
 ####### 7
 ###### 6 c `` &nbsp;       &nbsp;``C++
 ##### 5  C              C++
-#### 4      C &nbsp; &nbsp; C++
+#### 4      CC++
 ### 3
 >
 

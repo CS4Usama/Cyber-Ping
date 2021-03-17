@@ -1,4 +1,4 @@
-# Programmer | Web Developer | Cyber Security Specialist
+# Programmer | Web Developer || Cyber Security Specialist
 
 ### ABOUT
 - 👋 Hello World! I'm Usama from Pakistan.
@@ -16,13 +16,13 @@
 <pre>C      C++         HTML5       CSS3        JavaScript</pre>
 <code>Git   NPM         VS Code     Dev-C++     Turbo C++</code>
 ####### 7
-###### 6 c `` &nbsp; &nbsp;``C++
+###### 6 c `` &nbsp;       &nbsp;``C++
 ##### 5  C              C++
-#### 4      C           C++
+#### 4      C&nbspC++
 ### 3
 >
 
-<!---
+
 Cyber-Ping/Cyber-Ping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

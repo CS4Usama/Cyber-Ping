@@ -20,7 +20,7 @@
 
 >💻 &ldquo;PROGRAMMING is Just a Game of L0GIC.&rdquo; 🧐 <br>If You can Create a L0GIC, then You can Convert Your Imaginations into Reality.
 
-![dotCMS logo](//D:\Picture Collection\#Other Collection\Programming Quotes\PROGRAMMING is Just a Game of L0GIC)
+![dotCMS logo](D:\Picture Collection\#Other Collection\Programming Quotes\PROGRAMMING is Just a Game of L0GIC)
 
 <!-- CS4Usama/Cyber-Ping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. --->

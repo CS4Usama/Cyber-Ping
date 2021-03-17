@@ -13,7 +13,7 @@
 # C           
 ## C++         
 * Git         
-> NPM         HTML5       CSS3        JavaScript
+> NPM         HTML5   * ...    CSS3        JavaScript
 
 <!---
 Cyber-Ping/Cyber-Ping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

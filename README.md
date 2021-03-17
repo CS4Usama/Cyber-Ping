@@ -6,14 +6,14 @@
 - 🌱 I’m currently learning Web and Mobile Development from Saylani Mass IT Training Program.
 - 💞️ I’m looking to collaborate on Web Projects.
 - 📫 How to reach me:>
--           LinkedIn:   https://www.linkedin.com/in/usama-cs
+-           LinkedIn:   <pre> <a href="https://www.linkedin.com/in/usama-cs">USAMA</a>
             Facebook:   https://www.facebook.com/CS4Usama
             Instagram:  https://www.instagram.com/cs4usama
             Twitter:    https://twitter.com/CS4Usama
             GitHub:     https://github.com/CS4Usama
 ## Programming Languages and Tools:
-<pre>:
-#### * C C++      &nbsp &emsp       Git     $~$    NPMHTML5 CSS3 JavaScript
+:
+#### <pre> C C++      &nbsp &emsp       Git     $~$    NPMHTML5 CSS3 JavaScript
 <code>:
 ####### 7
 ###### 6 c  C++

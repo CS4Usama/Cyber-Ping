@@ -13,8 +13,8 @@
             GitHub:     https://github.com/CS4Usama
 
 ## Programming Languages and Tools:
-<pre>C      C++         HTML5       CSS3        JavaScript
-<code>      Git         NPM         VS Code     Dev-C++     Turbo C++
+<pre>C      C++         HTML5       CSS3        JavaScript</pre>
+<code>Git   NPM         VS Code     Dev-C++     Turbo C++</code>
 ####### 7
 ###### 6 c  C++
 ##### 5  C              C++

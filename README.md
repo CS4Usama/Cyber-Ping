@@ -12,8 +12,9 @@
             Twitter:    https://twitter.com/CS4Usama
             GitHub:     https://github.com/CS4Usama
 ## Programming Languages and Tools:
-#### * C C++      &nbsp &emsp       Git         NPMHTML5 CSS3 JavaScript
-
+<pre>:
+#### * C C++      &nbsp &emsp       Git     $~$    NPMHTML5 CSS3 JavaScript
+<code>:
 ####### 7
 ###### 6 c  C++
 ##### 5  C              C++

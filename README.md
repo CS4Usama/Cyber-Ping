@@ -1,3 +1,4 @@
+## ABOUT
 - 👋 Hi! I'm Usama from Pakistan.
 - 👀 I'm a young passionate programmer with various skills.
 - 🌱 I’m currently learning Web and Mobile Development from Saylani Mass IT Training Program.
@@ -13,8 +14,7 @@
 # C           
 ## C++         
 * Git         
-> NPM         HTML5   * 
-* ...    CSS3        JavaScript
+> NPM         HTML5 CSS3        JavaScript
 
 <!---
 Cyber-Ping/Cyber-Ping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

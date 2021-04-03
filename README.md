@@ -14,7 +14,7 @@
 
 ## Programming Languages and Tools:
 #### C &nbsp; &nbsp; C++ &nbsp; &nbsp; Markdown &nbsp; &nbsp; HTML5 &nbsp; &nbsp; CSS3 &nbsp; &nbsp; JavaScript
-##### Git &nbsp; &nbsp; NPM &nbsp; &nbsp; VS Code &nbsp; &nbsp; Dev-C++ &nbsp; &nbsp; Turbo C++
+##### Git &nbsp; &nbsp; NPM &nbsp; &nbsp; Bootstrap &nbsp; &nbsp; VS Code &nbsp; &nbsp; Dev-C++ &nbsp; &nbsp; Turbo C++
 
 </br><br>
 

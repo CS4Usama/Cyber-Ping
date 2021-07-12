@@ -16,7 +16,7 @@
             YouTube:    https://www.youtube.com/channel/UCzIiHbpMfqfMrmN9JcJ8vsQ
 
 ## Programming Languages and Tools:
-#### C &nbsp; &nbsp; C++ &nbsp; &nbsp; Markdown &nbsp; &nbsp; HTML5 &nbsp; &nbsp; CSS3 &nbsp; &nbsp; JavaScript &nbsp; &nbsp; React.js &nbsp; &nbsp; React Native
+#### C &nbsp; &nbsp; C++ &nbsp; &nbsp; Markdown &nbsp; &nbsp; HTML &nbsp; &nbsp; CSS &nbsp; &nbsp; JavaScript &nbsp; &nbsp; React.js &nbsp; &nbsp; React Native
 ##### Firebase &nbsp; &nbsp; Redux &nbsp; &nbsp; Git &nbsp; &nbsp; NPM &nbsp; &nbsp; Bootstrap &nbsp; &nbsp; Material-UI &nbsp; &nbsp; VS Code
 
 </br><br>

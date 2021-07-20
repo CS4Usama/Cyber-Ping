@@ -4,7 +4,7 @@
 - 👋 Hello World! I'm Usama from Pakistan.
 - 👀 I'm a young passionate programmer with various skills.
 - 🌱 I'm currently learning Web and Mobile Development from Saylani Mass IT Training Program.
-- 💞️ I'm looking to collaborate on Web Projects.
+- 💞️ I'm looking to collaborate on Web Project
 
 - 📫 How to reach me:> &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/CS4Usama "LinkedIn Profile") &nbsp; &nbsp; [Facebook](https://www.facebook.com/CS4Usama "Facebook Profile") &nbsp; &nbsp; [Instagram](https://www.instagram.com/CS4Usama "Instagram Profile") &nbsp; &nbsp; [Twitter](https://twitter.com/CS4Usama "Twitter Profile") &nbsp; &nbsp; [GitHub](https://github.com/CS4Usama "GitHub Portfolio") &nbsp; &nbsp; [YouTube](https://www.youtube.com/channel/UCzIiHbpMfqfMrmN9JcJ8vsQ)
 

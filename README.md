@@ -1,4 +1,4 @@
-# Programmer | Web Developer | Cyber Security Specialist
+# Programmer || MERN Stack Developer
 
 ### ABOUT
 - 👋 Hello World! I'm Usama from Pakistan.

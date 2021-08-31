@@ -1,4 +1,4 @@
-# MERN Stack Developer || Programmer
+# MERN Stack Developer | Programmer
 
 ### ABOUT
 - 👋 Hello World! I'm Usama from Pakistan.

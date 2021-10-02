@@ -14,6 +14,7 @@
             Twitter:    https://twitter.com/CS4Usama
             GitHub:     https://github.com/CS4Usama
             YouTube:    https://www.youtube.com/channel/UCzIiHbpMfqfMrmN9JcJ8vsQ
+            Skype:      live:.cid.74c0e06df454e794
 
 ## Programming Languages and Tools:
 #### C &nbsp; &nbsp; C++ &nbsp; &nbsp; Markdown &nbsp; &nbsp; HTML &nbsp; &nbsp; CSS &nbsp; &nbsp; JavaScript &nbsp; &nbsp; React.js &nbsp; &nbsp; React Native &nbsp; &nbsp; Node.js &nbsp; &nbsp; Express.js &nbsp; &nbsp; MongoDB

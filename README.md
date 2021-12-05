@@ -17,7 +17,7 @@
             YouTube:    https://www.youtube.com/c/CS4Usama
             Skype:      live:.cid.74c0e06df454e794
 
-## Programming Languages and Tools:
+## Programming Languages and Tools
 #### C &nbsp; &nbsp; C++ &nbsp; &nbsp; HTML &nbsp; &nbsp; CSS &nbsp; &nbsp; JavaScript &nbsp; &nbsp; React.js &nbsp; &nbsp; Next.js &nbsp; &nbsp; React Native &nbsp; &nbsp; Node.js &nbsp; &nbsp; Express.js &nbsp; &nbsp; MongoDB &nbsp; &nbsp; Apollo GraphQL
 ##### Markdown &nbsp; &nbsp; Firebase &nbsp; &nbsp; Redux &nbsp; &nbsp; Git &nbsp; &nbsp; NPM &nbsp; &nbsp; Bootstrap &nbsp; &nbsp; Material-UI &nbsp; &nbsp; VS Code &nbsp; &nbsp; Postman &nbsp; &nbsp; Trello &nbsp; &nbsp; OOP
 

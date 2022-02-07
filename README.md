@@ -18,8 +18,8 @@
             Skype:      live:.cid.74c0e06df454e794
 
 ## Programming Languages and Tools:
-#### C &nbsp; &nbsp; C++ &nbsp; &nbsp; HTML &nbsp; &nbsp; CSS &nbsp; &nbsp; JavaScript &nbsp; &nbsp; React.js &nbsp; &nbsp; Next.js &nbsp; &nbsp; React Native &nbsp; &nbsp; Node.js &nbsp; &nbsp; Express.js &nbsp; &nbsp; MongoDB &nbsp; &nbsp; Apollo GraphQL
-##### Markdown &nbsp; &nbsp; Firebase &nbsp; &nbsp; Redux &nbsp; &nbsp; Git &nbsp; &nbsp; NPM &nbsp; &nbsp; Bootstrap &nbsp; &nbsp; Material-UI &nbsp; &nbsp; VS Code &nbsp; &nbsp; Postman &nbsp; &nbsp; Trello &nbsp; &nbsp; OOP
+#### x86 Assembly Language &nbsp; &nbsp; &nbsp; &nbsp; C &nbsp; &nbsp; &nbsp; &nbsp; C++ &nbsp; &nbsp; &nbsp; &nbsp; HTML &nbsp; &nbsp; &nbsp; &nbsp; CSS &nbsp; &nbsp; &nbsp; &nbsp; JavaScript &nbsp; &nbsp; &nbsp; &nbsp; React.js &nbsp; &nbsp; &nbsp; &nbsp; Next.js &nbsp; &nbsp; &nbsp; &nbsp; React Native &nbsp; &nbsp; &nbsp; &nbsp; Node.js &nbsp; &nbsp; &nbsp; &nbsp; Express.js &nbsp; &nbsp; &nbsp; &nbsp; MongoDB &nbsp; &nbsp; &nbsp; &nbsp; Apollo GraphQL &nbsp; &nbsp; &nbsp; &nbsp; Python
+##### Markdown &nbsp; &nbsp; &nbsp; Firebase &nbsp; &nbsp; &nbsp; Redux &nbsp; &nbsp; &nbsp; Git &nbsp; &nbsp; &nbsp; NPM &nbsp; &nbsp; &nbsp; Bootstrap &nbsp; &nbsp; &nbsp; Material-UI &nbsp; &nbsp; &nbsp; VS Code &nbsp; &nbsp; &nbsp; Postman &nbsp; &nbsp; &nbsp; Trello &nbsp; &nbsp; &nbsp; OOP
 
 </br><br>
 

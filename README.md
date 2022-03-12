@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning Web and Mobile Development from Saylani Mass IT Training Program.
 - 💞️ I'm looking to collaborate on Web Projects.
 
-- 📫 How to reach me:> &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/CS4Usama "LinkedIn Profile") &nbsp; &nbsp; [Facebook](https://www.facebook.com/CS4Usama "Facebook Profile") &nbsp; &nbsp; [Instagram](https://www.instagram.com/CS4Usama "Instagram Profile") &nbsp; &nbsp; [Twitter](https://twitter.com/CS4Usama "Twitter Profile") &nbsp; &nbsp; [GitHub](https://github.com/CS4Usama "GitHub Portfolio") &nbsp; &nbsp; [CodePen](https://codepen.io/CS4Usama) &nbsp; &nbsp; [YouTube](https://www.youtube.com/c/CS4Usama)
+- 📫 How to reach me:> &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/CS4Usama "LinkedIn Profile") &nbsp; &nbsp; [Facebook](https://www.facebook.com/CS4Usama "Facebook Profile") &nbsp; &nbsp; [Instagram](https://www.instagram.com/CS4Usama "Instagram Profile") &nbsp; &nbsp; [Twitter](https://twitter.com/CS4Usama "Twitter Profile") &nbsp; &nbsp; [GitHub](https://github.com/CS4Usama "GitHub Portfolio") &nbsp; &nbsp; [CodePen](https://codepen.io/CS4Usama "CodePen Portfolio") &nbsp; &nbsp; [YouTube](https://www.youtube.com/c/CS4Usama "YouTube Channel")
 
             LinkedIn:   https://www.linkedin.com/in/CS4Usama
             Facebook:   https://www.facebook.com/CS4Usama

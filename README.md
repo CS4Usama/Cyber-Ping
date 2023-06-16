@@ -1,4 +1,4 @@
-# MERN Stack Developer | Cyber Security Enthusiast
+# MERN Stack Developer | Cyber Security Enthusiast | Fitness Pursuer | Urdu Prose Writer
 
 ### ABOUT
 - 👋 Hello World! I'm Usama from Pakistan.

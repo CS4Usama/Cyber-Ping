@@ -6,12 +6,12 @@
 - 🌱 I'm currently working as a full stack developer in a well-known organization.
 - 💞️ I'm looking to collaborate on Web Projects.
 
-- 📫 How to reach me:> &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/CS4Usama "LinkedIn Profile") &nbsp; &nbsp; [Facebook](https://www.facebook.com/CS4Usama "Facebook Profile") &nbsp; &nbsp; [Instagram](https://www.instagram.com/CS4Usamaa "Instagram Profile") &nbsp; &nbsp; [Twitter](https://twitter.com/CS4Usama "Twitter Profile") &nbsp; &nbsp; [GitHub](https://github.com/CS4Usama "GitHub Portfolio") &nbsp; &nbsp; [CodePen](https://codepen.io/CS4Usama "CodePen Portfolio") &nbsp; &nbsp; [YouTube](https://www.youtube.com/c/CS4Usama "YouTube Channel") &nbsp; &nbsp; [HackerRank](https://www.hackerrank.com/CS4Usama)
+- 📫 How to reach me:> &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/CS4Usama "LinkedIn Profile") &nbsp; &nbsp; [Facebook](https://www.facebook.com/CS4Usama "Facebook Profile") &nbsp; &nbsp; [Instagram](https://www.instagram.com/CS4Usamaa "Instagram Profile") &nbsp; &nbsp; [X](https://twitter.com/CS4Usama "X Profile") &nbsp; &nbsp; [GitHub](https://github.com/CS4Usama "GitHub Portfolio") &nbsp; &nbsp; [CodePen](https://codepen.io/CS4Usama "CodePen Portfolio") &nbsp; &nbsp; [YouTube](https://www.youtube.com/c/CS4Usama "YouTube Channel") &nbsp; &nbsp; [HackerRank](https://www.hackerrank.com/CS4Usama)
 
             LinkedIn:   https://www.linkedin.com/in/CS4Usama
             Facebook:   https://www.facebook.com/CS4Usama
             Instagram:  https://www.instagram.com/CS4Usamaa
-            Twitter:    https://twitter.com/CS4Usama
+            X:          https://twitter.com/CS4Usama
             GitHub:     https://github.com/CS4Usama
             CodePen:    https://codepen.io/CS4Usama
             HackerRank: https://www.hackerrank.com/CS4Usama

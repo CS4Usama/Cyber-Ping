@@ -6,7 +6,7 @@
 - 🌱 I'm currently working as a full stack developer in a well-known organization.
 - 💞️ I'm looking to collaborate on Web Projects.
 
-- 📫 How to reach me:> &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/CS4Usama "LinkedIn Profile") &nbsp; &nbsp; &nbsp; [HackerRank](https://www.hackerrank.com/CS4Usama "HackerRank Profile") &nbsp; &nbsp; &nbsp; [LeetCode](https://leetcode.com/CS4Usama "LeetCode Profile") &nbsp; &nbsp; &nbsp; [CodingNinjas](https://www.codingninjas.com/studio/profile/CS4Usama "CodingNinjas Profile")
+- 📫 How to reach me:> &nbsp; [usama.cdev@gmail.com](mailto:usama.cdev@gmail.com "Mail Me Here") &nbsp; &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/CS4Usama "LinkedIn Profile") &nbsp; &nbsp; &nbsp; [HackerRank](https://www.hackerrank.com/CS4Usama "HackerRank Profile") &nbsp; &nbsp; &nbsp; [LeetCode](https://leetcode.com/CS4Usama "LeetCode Profile") &nbsp; &nbsp; &nbsp; [CodingNinjas](https://www.codingninjas.com/studio/profile/CS4Usama "CodingNinjas Profile")
 
             LinkedIn:      https://www.linkedin.com/in/CS4Usama
             Facebook:      https://www.facebook.com/CS4Usama

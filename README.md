@@ -1,4 +1,4 @@
-# Software Engineer | Cyber Security Enthusiast | Fitness Pursuer | Urdu Prose Writer
+# Software Engineer | MERN, Laravel | Ex-TechloSet, CodectionPak | Ex-General Secretary @IEEE GCUF | Blockchain, Gen AI & Cyber Security Enthusiast
 
 ### ABOUT
 - 👋 Hello World! I'm Usama from Pakistan.
@@ -6,17 +6,18 @@
 - 🌱 I'm currently working as a full stack developer in a well-known organization.
 - 💞️ I'm looking to collaborate on Web Projects.
 
-- 📫 How to reach me:> &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/CS4Usama "LinkedIn Profile") &nbsp; &nbsp; [Facebook](https://www.facebook.com/CS4Usama "Facebook Profile") &nbsp; &nbsp; [Instagram](https://www.instagram.com/CS4Usamaa "Instagram Profile") &nbsp; &nbsp; [X](https://twitter.com/CS4Usama "X Profile") &nbsp; &nbsp; [GitHub](https://github.com/CS4Usama "GitHub Portfolio") &nbsp; &nbsp; [CodePen](https://codepen.io/CS4Usama "CodePen Portfolio") &nbsp; &nbsp; [YouTube](https://www.youtube.com/c/CS4Usama "YouTube Channel") &nbsp; &nbsp; [HackerRank](https://www.hackerrank.com/CS4Usama)
+- 📫 How to reach me:> &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/CS4Usama "LinkedIn Profile") &nbsp; &nbsp; &nbsp; [HackerRank](https://www.hackerrank.com/CS4Usama "HackerRank Profile") &nbsp; &nbsp; &nbsp; [LeetCode](https://leetcode.com/CS4Usama "LeetCode Profile") &nbsp; &nbsp; &nbsp; [CodingNinjas](https://www.codingninjas.com/studio/profile/CS4Usama "CodingNinjas Profile")
 
-            LinkedIn:   https://www.linkedin.com/in/CS4Usama
-            Facebook:   https://www.facebook.com/CS4Usama
-            Instagram:  https://www.instagram.com/CS4Usamaa
-            X:          https://twitter.com/CS4Usama
-            GitHub:     https://github.com/CS4Usama
-            CodePen:    https://codepen.io/CS4Usama
-            HackerRank: https://www.hackerrank.com/CS4Usama
-            YouTube:    https://www.youtube.com/c/CS4Usama
-            Skype:      live:.cid.74c0e06df454e794
+            LinkedIn:      https://www.linkedin.com/in/CS4Usama
+            Facebook:      https://www.facebook.com/CS4Usama
+            Instagram:     https://www.instagram.com/CS4Usamaa
+            X:             https://twitter.com/CS4Usama
+            GitHub:        https://github.com/CS4Usama
+            CodePen:       https://codepen.io/CS4Usama
+            HackerRank:    https://www.hackerrank.com/CS4Usama
+            LeetCode:      https://leetcode.com/CS4Usama
+            CodingNinjas:  https://www.codingninjas.com/studio/profile/CS4Usama
+            YouTube:       https://www.youtube.com/c/CS4Usama
 
 ## Programming Languages and Tools:
 #### x86 Assembly Language &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C++ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HTML &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CSS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sass/Scss  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; JavaScript &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vue.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; React.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Next.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; React Native &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Node.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Express.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MongoDB &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Laravel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Apollo GraphQL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PostgreSQL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MySQL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Python

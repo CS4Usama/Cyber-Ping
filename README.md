@@ -10,7 +10,7 @@
 
             LinkedIn:      https://www.linkedin.com/in/CS4Usama
             Facebook:      https://www.facebook.com/CS4Usama
-            Instagram:     https://www.instagram.com/CS4Usamaa
+            Instagram:     https://www.instagram.com/CS4Usama
             X:             https://twitter.com/CS4Usama
             GitHub:        https://github.com/CS4Usama
             CodePen:       https://codepen.io/CS4Usama

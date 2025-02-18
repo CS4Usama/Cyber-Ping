@@ -1,4 +1,4 @@
-# Software Engineer | MERN, Laravel | Ex-TechloSet, CodectionPak | Ex-General Secretary @IEEE GCUF | Blockchain, Gen AI & Cyber Security Enthusiast
+# Software Engineer | MERN, Laravel, ASP.Net | Ex-TechloSet, CodectionPak | Ex-General Secretary @IEEE GCUF | Blockchain, Gen AI & Cyber Security Enthusiast
 
 ### ABOUT
 - 👋 Hello World! I'm Usama from Pakistan.
@@ -20,7 +20,7 @@
             YouTube:       https://www.youtube.com/c/CS4Usama
 
 ## Programming Languages and Tools:
-#### x86 Assembly Language &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C++ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HTML &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CSS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sass/Scss  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; JavaScript &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vue.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; React.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Next.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; React Native &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Node.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Express.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MongoDB &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Laravel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Apollo GraphQL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PostgreSQL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MySQL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Python
+#### x86 Assembly Language &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C++ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HTML &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CSS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sass/Scss  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; JavaScript &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vue.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; React.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Next.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; React Native &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Node.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Express.js &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MongoDB &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Laravel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Apollo GraphQL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PostgreSQL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MySQL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Python &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ASP.Net &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ABP Framework
 ##### Markdown &nbsp; &nbsp; &nbsp; &nbsp; Firebase &nbsp; &nbsp; &nbsp; &nbsp; Redux &nbsp; &nbsp; &nbsp; &nbsp; Git &nbsp; &nbsp; &nbsp; &nbsp; NPM &nbsp; &nbsp; &nbsp; &nbsp; Bootstrap &nbsp; &nbsp; &nbsp; &nbsp; Material-UI &nbsp; &nbsp; &nbsp; &nbsp; Materialize CSS &nbsp; &nbsp; &nbsp; &nbsp; VS Code &nbsp; &nbsp; &nbsp; &nbsp; Postman &nbsp; &nbsp; &nbsp; &nbsp; Trello &nbsp; &nbsp; &nbsp; &nbsp; OOP &nbsp; &nbsp; &nbsp; &nbsp; WordPress &nbsp; &nbsp; &nbsp; &nbsp; Elementor &nbsp; &nbsp; &nbsp; &nbsp; Strapi
 
 </br><br>
